@@ -1,0 +1,23 @@
+body {
+    font-family: 'Times New Roman';
+}
+
+#main {
+    background-image: url(Venice\ Street-2.jpg);
+    border-style: none;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;               
+}
+
+div2 {
+    background-color: lightgrey;
+    width: 1300px;
+}
+
+h2 {
+    Padding-left: 450px;
+    padding-top: 200px;
+    color: goldenrod;
+    font-size: 500%;
+}
